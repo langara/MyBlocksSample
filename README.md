@@ -1,5 +1,7 @@
 # My Blocks Sample
 
+##### IMPORTANT: this is old Java version. For new Kotlin implementation see: [My Intent Sample](https://github.com/langara/MyIntentSample)
+
 This is a really simple android application showing usage of [My Blocks](https://github.com/langara/MyBlocks) library.
 
 It shows how using `MyActivity` and `MyFragment` base classes can reduce boilerplate code.
